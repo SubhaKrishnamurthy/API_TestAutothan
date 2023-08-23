@@ -1,0 +1,55 @@
+{
+  "date": "2022-11-15T08:47:39.00Z",
+  "channelId": "CH40",
+  "type": "BILLSPAYMENT",
+  "transactionId": "8838202211150447716",
+  "referenceId": "E879B16B7E645B66FAB7",
+  "debit": {
+    "accountToken": "a:rY5CFD9ja3as2I/pjgVpdeG0/quhMAuYLSxGaEkWAKVrCQYYWfrJY+PJjEBsX47OxxU0oBwVC+Hy/Dv0BBwSb5IXZiYvCQvbDqNpYw2dXxIlTZlCRFCcrvaLy13WIdCan/sC5E3krV2C9OqTLzagVhbnhU83vPTYTkhR",
+    "tranCode": "O8220",
+    "particulars": "UPCP - Online Payment",
+    "remarks": "UPCP - Online Payment"
+  },
+  "credit": {
+    "accountNumber": "000590090690",
+    "tranCode": "O8220",
+    "particulars": "UPCP - Online Payment",
+    "remarks": "UPCP - Online Payment"
+  },
+  "amount": "222",
+  "biller": {
+    "id": "G1556",
+    "serviceId": "3820",
+    "reportCode": "C3820",
+    "references": [
+      {
+        "index": 1,
+        "name": "FULL NAME",
+        "value": "James Galvez"
+      },
+      {
+        "index": 2,
+        "name": "GOVERNMENT ID NO.",
+        "value": "909090909"
+      },
+      {
+        "index": 3,
+        "name": "ORDER NO.",
+        "value": "11111222333444555"
+      },
+      {
+        "index": 4,
+        "name": "Email Address",
+        "value": "juandelacruz@example.com"
+      },
+      {
+        "index": 5,
+        "name": "Mobile Number",
+        "value": "9123400123"
+      }
+    ]
+  },
+  "paymentMethod": "UB ONLINE",
+  "hasOtherDetails": "N",
+  "forFailedPosting": "Y"
+}
