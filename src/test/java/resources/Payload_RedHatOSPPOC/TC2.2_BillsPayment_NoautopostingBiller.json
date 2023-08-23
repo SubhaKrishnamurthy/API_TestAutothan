@@ -1,0 +1,58 @@
+{
+  "date": "2021-08-23T10:26:13.000Z",
+  "channelId": "CH21",
+  "type": "BillSPAYMENT",
+  "transactionId": "27490354961711104",
+  "referenceId": "27490354961711104",
+  "debit": {
+    "accountNumber": "000590080120",
+    "tranCode": "O8220",
+    "particulars": "",
+    "remarks": "Bayad Center"
+  },
+  "credit": {
+    "accountNumber": "3123131",
+    "tranCode": "O8220",
+    "particulars": "",
+    "remarks": ""
+  },
+  "amount": "100",
+  "biller": {
+    "id": "G0473",
+    "serviceId": "7633",
+    "reportCode": "C7633",
+    "references": [
+      {
+        "index": 1,
+        "name": "Bayad Center Name",
+        "value": "asdasdasdada12312312"
+      },
+      {
+        "index": 2,
+        "name": "Name",
+        "value": "james galvez"
+      },
+      {
+        "index": 3,
+        "name": "Request source",
+        "value": "Develop"
+      },
+      {
+        "index": 4,
+        "name": "mobile number",
+        "value": "0969420"
+      },
+      {
+        "index": 5,
+        "name": "email",
+        "value": "jamesgalvez@rocketmail.com"
+      }
+    ]
+  },
+  "paymentMethod": "VISA",
+  "status": "S",
+  "description": "Success",
+  "forFailedPosting": "Y",
+  "hasOtherDetails": "N",
+  "otherDetails": []
+}
